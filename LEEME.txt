@@ -1,0 +1,9 @@
+Se debera instalar php 8.0.30 (tambien se puede utilizar visual code con la extencion correspondiente)
+tambien instalar xampp tambien la version 8.0.30
+
+depues de instalar xampp pasar los archivos encontrados el github, ir al disco donde se instalo xampp
+y por lo general se instala en el disco loca se buscar la carpeta con el mismo nombre y al abirla se busca una
+carpeta llamada "htdocs" en ella se crea una carpeta llamada Votaciones, despues de eso
+ejecutar xampp y activar los 2 servicios Apache y MySQL, luego se entra en el navegador de su preferencia
+entra al siguiente enlace http://localhost/phpmyadmin/ en esta se creara una nueva base de datos llamada votaciones
+y ejecutara el script encotrado en el github despues de eso podra entra al http://localhost/Votaciones/ para probar el proyecto
